@@ -1,0 +1,11 @@
+E:\Pemograman\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\netcoreapp3.1\LatihanPolymorphism.exe
+E:\Pemograman\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\netcoreapp3.1\LatihanPolymorphism.deps.json
+E:\Pemograman\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\netcoreapp3.1\LatihanPolymorphism.runtimeconfig.json
+E:\Pemograman\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\netcoreapp3.1\LatihanPolymorphism.runtimeconfig.dev.json
+E:\Pemograman\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\netcoreapp3.1\LatihanPolymorphism.dll
+E:\Pemograman\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\netcoreapp3.1\LatihanPolymorphism.pdb
+E:\Pemograman\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\netcoreapp3.1\LatihanPolymorphism.csprojAssemblyReference.cache
+E:\Pemograman\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\netcoreapp3.1\LatihanPolymorphism.AssemblyInfoInputs.cache
+E:\Pemograman\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\netcoreapp3.1\LatihanPolymorphism.AssemblyInfo.cs
+E:\Pemograman\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\netcoreapp3.1\LatihanPolymorphism.dll
+E:\Pemograman\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\netcoreapp3.1\LatihanPolymorphism.pdb
